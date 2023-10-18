@@ -1,0 +1,15 @@
+License: 1111-1111-1111-1111
+
+#MySQL:
+IP: localhost
+Port: 3306
+Databasename: MinetopiaBot
+Username: root
+Password: 123
+
+#Plots:
+CustomPlotPrijzen: false
+
+#Discord-Bot:
+Token: example_token
+ModRoleId:

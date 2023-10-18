@@ -1,0 +1,10 @@
+name: MinetopiaBot
+version: '${project.version}'
+main: dev.djayden.minetopiabot.MinetopiaBot
+depend:
+  - WorldGuard
+  - MinetopiaSDB
+commands:
+  connectdc:
+    description: Connect your minecraft account to your discord account
+    usage: /<command>
